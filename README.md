@@ -1,32 +1,24 @@
-# Hi there, I'm Sayuvannan! 👋
+# 💫 About Me:
+Hello! I'm Sayuvannan, a passionate and dedicated MERN Stack Developer, Front-End Web Developer, and Graphic Designer from Sri Lanka. I specialize in creating responsive, interactive, and user-friendly websites with a focus on performance and seamless user experiences. With a strong foundation in HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB, I thrive in developing full-stack applications and transforming complex concepts into elegant and functional solutions.<br><br>Whether it's a web development project, a design, or a custom-built solution, I always aim to add value through innovation, attention to detail, and a user-centered approach.<br><br>Skills & Technologies:<br>Front-End Development: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap<br>Back-End Development: Node.js, Express, MongoDB (MERN Stack)<br>Tools & Platforms: Git, GitHub, Figma, Canva, WordPress, Photoshop<br>Web Design & UI/UX: Graphic design, Responsive design, User experience optimization
 
-I'm a full-stack development student with a passion for front-end development, graphic design, and creating user-friendly web applications. Here's a bit more about me:
 
-## 🌟 Skills & Experience
-- **Front-End Development**: HTML, CSS, JavaScript
-- **Programming Languages**: Java, Python
-- **Graphic Design**: Certified by Alison
-- **Tools**: Photoshop, Illustrator, Figma
-- **Other Skills**: Banner creation, video editing, and freelance projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aj_ram07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ajram07) 
 
-## 🎓 Education
-- **Full-Stack Development Student**
-- **Front-End Development**: Novitech Institute (2024), Great Learning Academy (2024)
-- **Programming**: YarlIT Institute (2022-2024)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ajay-Ram07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay-Ram07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Ram07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💼 Work Experience
-- **Cashier**: Worked at Arpico Superstore in Wellawatta, providing excellent customer service.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ajay-Ram07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔭 What I'm Working On
-- Currently expanding my skills in full-stack development and working on exciting new web projects.
-
-## 📫 How to Reach Me
-- **Email**: mrsayuvannan0910@gmail.com
-- **LinkedIn**: www.linkedin.com/in/ajayra0925
-
-## ⚡ Fun Fact
-I love combining my coding skills with my graphic design background to create visually appealing web interfaces!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ajay-Ram07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ajay-Ram07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Feel free to connect with me or explore my repositories. Let's create something amazing together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
